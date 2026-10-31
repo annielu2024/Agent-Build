@@ -1,5 +1,10 @@
 .venv/
 .gradio/
+.DS_Store
+__pycache__/
+*.py[cod]
 Pipfile
 *.lock
-
+langchain-quickstart/.env
+langchain-quickstart/.venv
+gradio-quickstart/.env
